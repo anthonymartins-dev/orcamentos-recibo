@@ -3,6 +3,8 @@
 Aplicação web para criar orçamentos, acompanhar a aprovação e emitir recibos de pagamento,
 com exportação para PDF. Projeto 2 de uma série de 6 ferramentas para pequenos negócios.
 
+![Captura de ecrã](docs/painel.png)
+
 ## Funcionalidades
 
 - Orçamentos com vários itens, desconto e IVA, com totais calculados em tempo real
